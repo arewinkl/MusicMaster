@@ -20,6 +20,7 @@ class App extends Component {
         </Header>
         <Drawer title="MusicMaster">
             <Navigation>
+                <Link to="/">Home</Link>
                 <Link to="/mysongs">My Songs</Link>
                 <Link to="/myalbums">My Albums</Link>
                 <Link to="/wishlist">Wishlist</Link>
