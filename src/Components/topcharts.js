@@ -4,7 +4,9 @@ class Charts extends Component {
     render(){
         return(
             <div>
-                
+                <p>
+                    this is where I would like to have different charts with songs and albums.
+                </p>
             </div>
         )
     }
