@@ -6,6 +6,13 @@ class Charts extends Component {
             <div>
                 <p>
                     this is where I would like to have different charts with songs and albums.
+
+                    Albums = billboard
+                    Albums = Itunes
+                    Albums = Spotify
+
+
+                    maybe even have links to be able to listen to samples of top songs.
                 </p>
             </div>
         )
