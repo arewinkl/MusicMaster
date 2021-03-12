@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MusicMaster/static/css/main.2d2cd6d2.chunk.css",
+    "main.js": "/MusicMaster/static/js/main.ce87afe4.chunk.js",
+    "main.js.map": "/MusicMaster/static/js/main.ce87afe4.chunk.js.map",
+    "runtime-main.js": "/MusicMaster/static/js/runtime-main.a5592b91.js",
+    "runtime-main.js.map": "/MusicMaster/static/js/runtime-main.a5592b91.js.map",
+    "static/css/2.2f2c82fc.chunk.css": "/MusicMaster/static/css/2.2f2c82fc.chunk.css",
+    "static/js/2.b4fbd5ae.chunk.js": "/MusicMaster/static/js/2.b4fbd5ae.chunk.js",
+    "static/js/2.b4fbd5ae.chunk.js.map": "/MusicMaster/static/js/2.b4fbd5ae.chunk.js.map",
+    "index.html": "/MusicMaster/index.html",
+    "static/css/2.2f2c82fc.chunk.css.map": "/MusicMaster/static/css/2.2f2c82fc.chunk.css.map",
+    "static/css/main.2d2cd6d2.chunk.css.map": "/MusicMaster/static/css/main.2d2cd6d2.chunk.css.map",
+    "static/js/2.b4fbd5ae.chunk.js.LICENSE.txt": "/MusicMaster/static/js/2.b4fbd5ae.chunk.js.LICENSE.txt",
+    "static/media/vinylRecord.15a965b7.png": "/MusicMaster/static/media/vinylRecord.15a965b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5592b91.js",
+    "static/css/2.2f2c82fc.chunk.css",
+    "static/js/2.b4fbd5ae.chunk.js",
+    "static/css/main.2d2cd6d2.chunk.css",
+    "static/js/main.ce87afe4.chunk.js"
+  ]
+}
