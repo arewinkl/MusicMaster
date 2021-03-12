@@ -13,6 +13,9 @@ class Charts extends Component {
 
 
                     maybe even have links to be able to listen to samples of top songs.
+
+
+                    then add some decalls of music rotating around the screen.
                 </p>
             </div>
         )
