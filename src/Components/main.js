@@ -8,7 +8,7 @@ import Wishlist from './wishlist';
 
 const Main = () => (
     <Switch>
-        <Route exact path="/" component={LandingPage}/>
+        <Route exact path="/MusicMaster" component={LandingPage}/>
         <Route path="/wishlist" component={Wishlist}/>
         <Route path="/myalbums" component={MyAlbums}/>
         <Route path="/mysongs" component={MySongs}/>

@@ -10,7 +10,7 @@ class App extends Component {
     <div className="App">
      <div style={{height: '300px', position: 'relative'}}>
     <Layout>
-        <Header className="header-color" transparent title="MusicMaster" style={{color: 'white', height: '100px'}} scroll>
+  <Header className="header-color"  transparent title={<Link  style={{textDecoration:'none', color: 'white', height: '100px'}} to="/MusicMaster">MusicMaster</Link>}  scroll>
             <Navigation>
                 <Link to="/mysongs" >My Song</Link>
                 <Link to="/myalbums">My Albums</Link>
@@ -20,7 +20,7 @@ class App extends Component {
         </Header>
         <Drawer title="MusicMaster">
             <Navigation>
-                <Link to="/">Home</Link>
+                <Link to="/MusicMaster">Home</Link>
                 <Link to="/mysongs">My Songs</Link>
                 <Link to="/myalbums">My Albums</Link>
                 <Link to="/wishlist">Wishlist</Link>
